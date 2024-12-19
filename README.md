@@ -1,5 +1,6 @@
 # fake_news_validation
 데이터는 AI HUB의 낚시성 기사 탐지 데이터 중 part1의 데이터를 사용하였으며 newsTitle, newsContent, useType를 사용했습니다. 
+
 https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=71338
 <hr>
 
