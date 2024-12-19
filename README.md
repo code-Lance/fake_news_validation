@@ -1,4 +1,18 @@
 # fake_news_validation
+해당 프로그램은 낚시성 기사인지 아닌지 여부를 분석해주는 프로그램으로 chrome extension을 활용하여 작성된 프로그램입니다.
+
+기본적으로 
+
+(1). 낚시성 기사를 분석하는 기능
+
+(2). 언론사별 헤드라인 기사 분석기능
+
+(3). 분석 기사와 연관된 기사를 가져오는 기능
+
+등 이 있습니다.
+
+<hr>
+
 데이터는 AI HUB의 낚시성 기사 탐지 데이터 중 part1의 데이터를 사용하였으며 newsTitle, newsContent, useType를 사용했습니다. 
 
 https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=71338
